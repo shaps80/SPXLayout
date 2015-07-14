@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'SPXLayout_Example', :exclusive => true do
+  pod "SPXLayout", :path => "../"
+end
+
+target 'SPXLayout_Tests', :exclusive => true do
+  pod "SPXLayout", :path => "../"
+
+  
+end
