@@ -1,0 +1,14 @@
+PODS:
+  - SPXLayout (1.0.0)
+
+DEPENDENCIES:
+  - SPXLayout (from `../`)
+
+EXTERNAL SOURCES:
+  SPXLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SPXLayout: 3272d1c68a0bc41ea576095649bd0265d348e07d
+
+COCOAPODS: 0.37.2
