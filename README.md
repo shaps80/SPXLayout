@@ -1,6 +1,5 @@
 # SPXLayout
 
-[![CI Status](http://img.shields.io/travis/Shaps Mohsenin/SPXLayout.svg?style=flat)](https://travis-ci.org/Shaps Mohsenin/SPXLayout)
 [![Version](https://img.shields.io/cocoapods/v/SPXLayout.svg?style=flat)](http://cocoapods.org/pods/SPXLayout)
 [![License](https://img.shields.io/cocoapods/l/SPXLayout.svg?style=flat)](http://cocoapods.org/pods/SPXLayout)
 [![Platform](https://img.shields.io/cocoapods/p/SPXLayout.svg?style=flat)](http://cocoapods.org/pods/SPXLayout)
@@ -22,7 +21,7 @@ pod "SPXLayout"
 
 ## Author
 
-Shaps Mohsenin, shaps@theappbusiness.com
+Shaps, shapsuk@me.com
 
 ## License
 
